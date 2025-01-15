@@ -1,15 +1,15 @@
 # 🎵 Spotify Downloader
 
 <div align="center">
-  <img src="https://i.ibb.co/VqWBk7k/spotify-downloader-preview.png" alt="Spotify Downloader Preview">
+  <img src="https://i.ibb.co.com/8YdZwRw/download.png" alt="Spotify Downloader Preview">
   
   <p align="center">
     A modern, beautiful, and user-friendly Spotify music downloader with high-quality audio
     <br />
-    <a href="https://github.com/yourusername/spotify-downloader"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/raflyazwar/spotify-downloader"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://tiny-fairy-02e975.netlify.app/">View Demo</a>
+    <a href="https://spotify-downloader-high-quality-music.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -51,7 +51,7 @@
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/spotify-downloader.git
+   https://github.com/raflyazwar/spotify-downloader.git
    ```
 
 2. Install dependencies
@@ -151,9 +151,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Website: [yourwebsite.dev](https://yourwebsite.dev)
+**Rafly Azwar**
+- GitHub: [@raflyazwar](https://github.com/raflyazwar)
+- Website: [raflyazwar.dev](https://raflyazwar.vercel.app/)
 
 ## 🙏 Acknowledgments
 
@@ -164,16 +164,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [RapidAPI](https://rapidapi.com) for the Spotify Downloader API
 - [Netlify](https://netlify.com) for hosting
 
-## 💖 Support
+## 💖 Support Me
 
-If you find this project helpful, please consider giving it a ⭐️ on GitHub!
+If you appreciate my work and want to support me, you can do so through the following options:
 
-- **BagiBagi**: [Support on BagiBagi](https://bagibagi.co/yourusername)
-- **Saweria**: [Support on Saweria](https://saweria.co/yourusername)
-- **Socialbuzz**: [Support on Socialbuzz](https://sociabuzz.com/yourusername)
+- **BagiBagi**: [Support on BagiBagi](https://bagibagi.co/Raflyazwar)
+- **Saweria**: [Support on Saweria](https://saweria.co/Raflyazwar)
+- **Socialbuzz**: [Support on Socialbuzz](https://sociabuzz.com/raflyazwar)
 
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/raflyazwar">Rafly Azwar</a>
 </div>
